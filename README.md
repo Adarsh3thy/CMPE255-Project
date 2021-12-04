@@ -1,4 +1,10 @@
-# Author Attribution
+# Author Attribution - CMPE 255 Final Project
+Team : 
+Adarsh Narasimha Murthy [014952275]
+Anuhya Gankidi [015897323]
+Deepak Vellore Karunamoorthy [014655628]
+Sai Harsha Anirudh Garre [015218996]
+
 
 Authorship attribution is the process of determining the writer of a document. We used The [Reuter C50_50 dataset](https://archive.ics.uci.edu/ml/datasets/Reuter_50_50) for this repository.
 
