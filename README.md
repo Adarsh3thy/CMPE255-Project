@@ -1,9 +1,9 @@
 # Author Attribution - CMPE 255 Final Project
 Team : 
 
-Adarsh Narasimha Murthy [014952275]
-Anuhya Gankidi [015897323]
-Deepak Vellore Karunamoorthy [014655628]
+Adarsh Narasimha Murthy [014952275]; 
+Anuhya Gankidi [015897323]; 
+Deepak Vellore Karunamoorthy [014655628]; 
 Sai Harsha Anirudh Garre [015218996]
 
 
