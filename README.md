@@ -34,7 +34,7 @@ Authorship attribution is the process of determining the writer of a document. W
   - Chi-Square
 
 #### III. Dimensionality Reduction
-  -SVD
+  - SVD
   
  #### IV. Classification Algorithms used and their results:
  
